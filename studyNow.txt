@@ -1,0 +1,26 @@
+study hashmap
+https://www.youtube.com/watch?v=KEs5UyBJ39g
+
+Two Sum (hash map + complement)
+
+Best Time to Buy and Sell Stock (single pass)
+
+Contains Duplicate (set)
+
+Product of Array Except Self (prefix/suffix)
+
+Maximum Subarray (Kadane's)
+
+Two Sum II - Input Sorted (two pointers)
+
+Week 2 (Hash Maps):
+
+Valid Anagram (frequency count)
+
+Group Anagrams (grouping by key)
+
+Top K Frequent Elements (frequency + heap/sort)
+
+Longest Substring Without Repeating (sliding window + set)
+
+Subarray Sum Equals K (prefix sum + hash map)
