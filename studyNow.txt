@@ -3,11 +3,11 @@ https://www.youtube.com/watch?v=KEs5UyBJ39g
 
 Two Sum (hash map + complement)
 
-Best Time to Buy and Sell Stock (single pass)
+Best Time to Buy and Sell Stock (single pass) - start this one
 
 Contains Duplicate (set)
 
-Product of Array Except Self (prefix/suffix)
+Product of Array Except Self (prefix/suffix) #try to do it in a loop`
 
 Maximum Subarray (Kadane's)
 
