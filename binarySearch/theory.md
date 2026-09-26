@@ -1,4 +1,4 @@
-# Binary search, in full
+ # Binary search, in full
 
 **One word:** Halving.
 **One sentence:** Binary search keeps a window that is guaranteed to contain the answer and throws away half of it on every step, so it finishes in O(log n).
