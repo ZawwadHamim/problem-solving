@@ -1,0 +1,5 @@
+704 Binary Search (Easy): 
+35 Search Insert Position (Easy): 
+34 First and Last Position (Medium):
+33 Search in Rotated Sorted Array (Medium): 
+875 Koko Eating Bananas (Medium): 
