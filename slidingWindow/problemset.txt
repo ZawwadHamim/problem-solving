@@ -1,0 +1,5 @@
+121 Best Time to Buy and Sell Stock (Easy): done
+3 Longest Substring Without Repeating Characters (Medium):
+424 Longest Repeating Character Replacement (Medium):
+209 Minimum Size Subarray Sum (Medium):
+567 Permutation in String (Medium):

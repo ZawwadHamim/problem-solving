@@ -1,5 +1,9 @@
 704 Binary Search (Easy): done
 35 Search Insert Position (Easy): done
 34 First and Last Position (Medium): done
-33 Search in Rotated Sorted Array (Medium): 
-875 Koko Eating Bananas (Medium): 
+74 Search a 2D Matrix (Medium):
+153 Find Minimum in Rotated Sorted Array (Medium):
+33 Search in Rotated Sorted Array (Medium):
+162 Find Peak Element (Medium):
+875 Koko Eating Bananas (Medium):
+1011 Capacity To Ship Packages Within D Days (Medium):

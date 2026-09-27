@@ -189,5 +189,32 @@
     }
   },
   "active": "eaf4b8271af97342",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "dsaTheory.pdf",
+    "dsaTheory_pdf.pdf",
+    "pdf-styles.css",
+    "roadmap.md",
+    "dsaTheory_pdf.md",
+    "dsaTheory.md",
+    "dp/problemset.txt",
+    "graphs/problemset.txt",
+    "backtracking/problemset.txt",
+    "heap/problemset.txt",
+    "trees/problemset.txt",
+    "linkedList/problemset.txt",
+    "intervals/problemset.txt",
+    "stack/problemset.txt",
+    "dp/theory.md",
+    "graphs/theory.md",
+    "backtracking/theory.md",
+    "heap/theory.md",
+    "trees/theory.md",
+    "linkedList/theory.md",
+    "intervals/theory.md",
+    "stack/theory.md",
+    "prefixSum/theory.md",
+    "slidingWindow/theory.md",
+    "twoPointers/theory.md",
+    "hashmap/theory.md"
+  ]
 }

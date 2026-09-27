@@ -1,0 +1,6 @@
+1 Two Sum (Easy): done
+217 Contains Duplicate (Easy):
+242 Valid Anagram (Easy): done
+49 Group Anagrams (Medium):
+347 Top K Frequent Elements (Medium):
+128 Longest Consecutive Sequence (Medium):
