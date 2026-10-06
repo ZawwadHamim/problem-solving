@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binarySearch/theory.md",
+                "file": "roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "theory"
+              "title": "roadmap"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "eaf4b8271af97342",
   "lastOpenFiles": [
+    "binarySearch/theory.md",
     "dsaTheory.pdf",
     "dsaTheory_pdf.pdf",
     "pdf-styles.css",
@@ -203,7 +204,6 @@
     "trees/problemset.txt",
     "linkedList/problemset.txt",
     "intervals/problemset.txt",
-    "stack/problemset.txt",
     "dp/theory.md",
     "graphs/theory.md",
     "backtracking/theory.md",

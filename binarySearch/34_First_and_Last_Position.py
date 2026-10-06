@@ -5,7 +5,7 @@ def searchRange(nums, target):
             mid = (lo+hi)//2
             if nums[mid]<target:
                 lo = mid+1
-            else:
+            else: #finding the first so eq goes to hi
                 hi = mid
         return lo
     def find_last():
